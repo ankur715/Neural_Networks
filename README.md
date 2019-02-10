@@ -1,13 +1,14 @@
 ## Neural Networks 
-<p align="center">
-  <img width="600" height="400" src="https://github.com/ankur715/neural_networks/blob/master/neural_network_visual_final.jpg"> 
+<p align="left">
+  <img width="800" height="500" src="https://github.com/ankur715/neural_networks/blob/master/neural_network_visual_final.jpg"> 
 </p>
----
+
 This repository include neural networks algorithms performed on 4 different datasets:
 * Iris
 * MNIST
 * SVHN
 * Pets
+
 
 The main library for this project was: 
 [Keras](https://keras.io/#installation)
