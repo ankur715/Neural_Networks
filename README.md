@@ -9,7 +9,7 @@ This repository include neural networks algorithms performed on 4 different data
 * Iris
 * MNIST
 * SVHN
-* Pets
+* Pets  
 The task for each dataset is included in the notebook.
 
 The main library for this project was:  
