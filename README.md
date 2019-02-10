@@ -1,6 +1,6 @@
 ## Neural Networks 
 <p align="left">
-  <img width="800" height="500" src="https://github.com/ankur715/neural_networks/blob/master/neural_network_visual_final.jpg"> 
+  <img width="800" height="450" src="https://github.com/ankur715/neural_networks/blob/master/neural_network_visual_final.jpg"> 
 </p>
 
 This repository include neural networks algorithms performed on 4 different datasets:
@@ -10,7 +10,7 @@ This repository include neural networks algorithms performed on 4 different data
 * Pets
 
 
-The main library for this project was: 
+The main library for this project was:  
 [Keras](https://keras.io/#installation)
 
 ---
