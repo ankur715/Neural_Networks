@@ -10,7 +10,7 @@ This repository include neural networks algorithms performed on 4 different data
 * MNIST
 * SVHN
 * Pets
-
+The task for each dataset is included in the notebook.
 
 The main library for this project was:  
 [Keras](https://keras.io/#installation)
