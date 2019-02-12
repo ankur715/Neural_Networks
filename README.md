@@ -18,3 +18,5 @@ The main library for this project was:
 
 ---
 If you have any ideas for a project and would like to collaborate or can offer any work/internship opportunities, feel free to contact me at [www.p.ankur.715@gmail.com](mailto:www.p.ankur.715@gmail.com) or https://www.linkedin.com/in/ankurpatel715/.
+
+Note: If you find this project useful, please include reference link in your work.
