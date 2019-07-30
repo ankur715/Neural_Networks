@@ -6,6 +6,8 @@
 *This project does not include what the image above displays, but it's added to show the usefulness of neural networks (possible future project)*
 
 This repository include neural networks algorithms performed on 4 different datasets:
+* Google Stock Price
+* Cryptocurrency
 * Iris
 * MNIST
 * SVHN
